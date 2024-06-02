@@ -1,0 +1,21 @@
+{
+  "name": "annie_todo_list",
+  "version": "1.0.2",
+  "description": "This is simple todo_list made with inquirer nodejs and typescript",
+  "main": "index.js",
+  "type": "module",
+  "bin": "todo_list",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Annie",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  },
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "inquirer": "^9.2.20"
+  }
+}
