@@ -86,23 +86,3 @@ else if (option.user_option === "Edit"){
 }
 }
   console.log(`Thank you for using to do list`);
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
